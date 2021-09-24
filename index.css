@@ -1,0 +1,177 @@
+.head
+{
+    background-color: azure;
+    border: 10px solid red;
+    font-family: 'Lucida Sans';
+    font-size: 30px;
+    height: 40px;
+    width: 400px;
+    display: block;
+    color: blueviolet;
+    padding: 0px 10px 120px 5px;
+    margin-left:550px ;
+    text-align: center;
+    font-weight: bold;
+    line-height: 0.1;
+}
+
+body
+{
+    background-color: black;
+}
+
+.first{
+
+    border: 10px solid blue;
+}
+
+.address{
+    background-color: azure;
+    border: 13px solid red;
+    font-family: 'Lucida Sans';
+    font-size: 30px;
+    height: 100px;
+    width: 200px;
+    display: inline-block;
+    color: blueviolet;
+    padding: 65px;
+    text-align: center;
+    font-weight: bold;
+    line-height: 0.8;
+    margin-left: 10px;
+
+}
+
+.image
+{
+    background-color: azure;
+    border: 11px solid red;
+    height: 300px;
+    width: 250px;
+    display: block;
+    background-image: url(image.jpg);
+    margin-left: 1180px;
+    margin-top: -250px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.block1
+{
+    background-color: azure;
+    border: 13px solid red;
+    font-family: 'Lucida Sans';
+    font-size: 20px;
+    height: 100px;
+    width: 200px;
+    display: inline-block;
+    vertical-align: left;
+    color: blueviolet;
+    padding: 70px;
+    text-align: center;
+    font-weight: bold;
+    line-height: 1.0;
+
+}
+
+.block2
+{
+    background-color: azure;
+    border: 11px solid red;
+    height: 200px;
+    width: 300px;
+    display: block;
+    float: right;
+    margin-top: 3%;
+    text-align: center;
+}
+
+.fixed
+{
+    background-color: azure;
+    border: 11px solid red;
+    display: block;
+    position: fixed;
+    bottom: 0px;
+    left:500px;
+    height:75px;
+    width:500px;
+    padding:0px 7px 5px 5px;
+    font-weight: bolder;
+    color: purple;
+    
+}
+
+.last
+{
+    background-color: aqua;
+    text-align: center;
+    width:800px;
+    height: 600px;
+    margin-left: 400px;
+
+}
+
+.box1
+{
+    background-color:palevioletred; 
+    padding: 0px 30px 5px 5px ;
+    text-align: center;
+    height: 200px;
+    width: 300px;
+    display: block;
+    font-weight: bold;
+    margin-left: 10px;
+    border: 10px solid white;
+}
+
+.box2
+{
+    background-color:palevioletred; 
+    padding: 0px 0px 5px 5px ;
+    text-align: center;
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+    font-weight: bold;
+    border: 10px solid white;
+    position: absolute;
+    margin-top: -220px;
+    margin-left: 50px;
+}
+
+
+.other
+{ 
+    background-color:palevioletred; 
+    text-align: center;
+    height: 200px;
+    width: 400px;
+    font-weight: bold;
+    border: 10px solid white;
+    top:500px;
+    display: inline-block;
+    padding: 0px 10px  10px 10px;
+  bottom: 10px;
+}
+
+.discount
+{
+font-weight: bolder;
+color: royalblue;
+position: absolute;
+right: 20px;
+    top: 30px;
+    text-align: center;
+}
+
+.offer
+{
+    font-weight: bolder;
+color: red;
+position: absolute;
+font-size: 18px;
+top: 10px;
+left: 30px;
+text-align: center;
+}
