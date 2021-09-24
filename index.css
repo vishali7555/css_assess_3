@@ -158,17 +158,18 @@ body
 .discount
 {
 font-weight: bolder;
-color: royalblue;
+color: rgb(32, 221, 32);
 position: absolute;
 right: 20px;
     top: 30px;
     text-align: center;
+    font-size: large;
 }
 
 .offer
 {
     font-weight: bolder;
-color: red;
+color:white;
 position: absolute;
 font-size: 18px;
 top: 10px;
